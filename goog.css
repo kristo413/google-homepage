@@ -1,0 +1,26 @@
+#logo {
+    display:block;
+    background-repeat: no-repeat;
+    bottom: var(--logo-margin-bottom);
+    height: 92px;
+    left: calc(50% - 272px/2);
+    position: absolute;
+    width: 272px;
+    top: 108px;
+}
+
+#search-box {
+    display: block;
+    position: absolute;
+    right: 30%;
+}
+
+#box {
+    width: 560px;
+    top: 300px;
+    height: 44px;
+    border-radius: 22px;
+    opacity: 1;
+    position: relative;
+
+}
